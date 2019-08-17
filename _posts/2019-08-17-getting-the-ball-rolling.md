@@ -2,6 +2,8 @@
 layout: article
 title: Getting the Ball Rolling
 mathjax: true
+author: Stanislav Kozlovski
+show_author_profile: true
 key: 20190817
 excerpt_separator: <!--more-->
 featured-img: /assets/images/paragliding.jpg
